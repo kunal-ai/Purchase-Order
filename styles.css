@@ -1,0 +1,22 @@
+.text-responsive {
+  font-size: calc(100% + 1vw + 1vh);
+}
+
+@media (min-width: 1000px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+
+#dept {
+  width:100%;
+}
+
+#rem {
+  height: 30%;
+}
+
+#unit {
+  width:50%;
+}
